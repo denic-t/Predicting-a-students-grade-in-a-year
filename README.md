@@ -89,7 +89,7 @@ def bootstrap_metrics(model, X_test_scaled, y_test, n_iter=10_000, alpha=0.05):
 
 ## Cтарт
 ```bash
-git clone <repo-url>
+git clone <[repo-url](https://github.com/denic-t/Predicting-a-students-grade-in-a-year)>
 cd Predicting-a-student's-grade-in-a-year
 pip install -r requirements.txt
 jupyter notebook "Predicting a student's grade in a year.ipynb"
